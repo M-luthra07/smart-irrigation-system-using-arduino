@@ -1,5 +1,5 @@
 
-# 🌱 Smart Irrigation System (IoT Based)
+# 🌱 Smart Irrigation System (IoT Based using Arduino)
 
 An **Automated Irrigation System** using Arduino that monitors soil moisture and automatically controls water supply using a relay-controlled pump.
 
