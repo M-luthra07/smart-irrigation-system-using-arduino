@@ -35,12 +35,11 @@ An **Automated Irrigation System** using Arduino that monitors soil moisture and
 | A0  | A0 |
 
 ### Relay Module
-| Pin | Connection |
-|-----|-----------|
+|Pin| Connection|
+|----|----------|
 | VCC | 5V |
-| GND | GND |
-| IN  | Pin 7 |
-
+| GND | GND|
+| IN | Pin 7 |
 ---
 
 ## ⚙️ Working Principle
